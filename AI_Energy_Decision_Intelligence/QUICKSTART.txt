@@ -1,0 +1,12 @@
+AI-Powered Data Analytics and Decision Intelligence for Energy-Efficient Industrial Machines
+
+RUNPOD QUICK START
+1. unzip AI_Energy_Decision_Intelligence.zip
+2. cd AI_Energy_Decision_Intelligence
+3. nvidia-smi
+4. python -m pip install --upgrade pip
+5. python -m pip install -r requirements.txt
+6. bash run.sh
+7. cat outputs/experiment_summary.json
+
+For a quick smoke test, reduce n_samples, estimator counts, epochs, and decision_candidates in config.yaml first.

@@ -1,0 +1,11 @@
+seed: 42
+n_samples: 120000
+test_size: 0.20
+xgb_estimators: 700
+xgb_max_depth: 8
+xgb_learning_rate: 0.05
+rf_estimators: 250
+mlp_epochs: 18
+batch_size: 2048
+decision_candidates: 20000
+energy_price_per_kwh: 0.12

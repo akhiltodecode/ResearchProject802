@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+outputs/*.joblib
+outputs/industrial_energy_dataset.csv
+.DS_Store
